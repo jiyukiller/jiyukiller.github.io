@@ -15,7 +15,7 @@
 #### [Github repository](https://github.com/LYXOfficial/NoTopDomain)
 版本 v3.0  
 on Jan 3, 2024  
-[本站下载](https://jiyukiller.github.io/NoTopDomain.exe) |
+[本站下载](https://jiyukiller.github.io/NoTopDomain.v3.0.exe) |
 [Cloudflare proxy](https://gh.ltya.top/https://github.com/LYXOfficial/NoTopDomain/releases/download/v3.0/NoTopDomain.v3.0.exe) |
 [Github releases](https://github.com/LYXOfficial/NoTopDomain/releases/download/v3.0/NoTopDomain.v3.0.exe) |
 [KGitHub](https://kkgithub.com/LYXOfficial/NoTopDomain/releases/download/v3.0/NoTopDomain.v3.0.exe) |
